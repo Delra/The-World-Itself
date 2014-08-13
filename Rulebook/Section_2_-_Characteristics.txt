@@ -1,0 +1,20 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2014-08-13T14:15:23-04:00
+
+====== Section 2 - Characteristics ======
+Created Wednesday 13 August 2014
+
+Characteristics are the various attributes, abilities, and powers that any character may have. Included in this section is a comprehensive list of Attributes and Derived Attributes, and a noncomprehensive list of Abilities. 
+
+* [[+2.1 - Attributes]]
+	* [[+2.1 - Attributes:2.1.1 - Agility|+2.1.1 - Agility]]
+	* [[+2.1 - Attributes:2.1.2 - Acumen|+2.1.2 - Acumen]]
+	* [[+2.1 - Attributes:2.1.3 - Endurance|+2.1.3 - Endurance]]
+	* [[+2.1 - Attributes:2.1.4 - Finesse|+2.1.4 - Finesse]]
+	* [[+2.1 - Attributes:2.1.5 - Instinct|+2.1.5 - Instinct]]
+	* [[+2.1 - Attributes:2.1.6 - Might|+2.1.6 - Might]]
+	* [[+2.1 - Attributes:2.1.7 - Sense|+2.1.7 - Sense]]
+	* [[+2.1 - Attributes:2.1.8 - Soul|+2.1.8 - Soul]]
+* [[+2.2 - Derived Attributes]]
+

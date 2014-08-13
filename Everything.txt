@@ -1,0 +1,13 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2014-08-13T13:46:13-04:00
+
+====== Everything ======
+Created Wednesday 13 August 2014
+
+This is a notebook dedicated to the world being created for the Strange Aeons universe. This will help with organization and updating, and make quick-reference easy. There's even a Search function. If you need assistance, contact Jamie or Owen. We got this. 
+
+[[Rulebook]]
+[[Characters]]
+[[+Storytellers]]
+[[+Staff]]

@@ -1,0 +1,15 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2014-08-13T14:18:24-04:00
+
+====== Section 1 - Overview ======
+Created Wednesday 13 August 2014
+
+     Stranger Things is designed to be a flexible, effects-based system. This has a few implications that may be unexpected for individuals unaccustomed to such systems. One important implication of this is that character aspects which do not gain in-game benefits are //free//. They provide no in-game benefit? Then they have no cost. Have a character with wings who can't fly? The wings don't require any particular power. Cosmetic features don't require any Creation Point expenditures. Another important implication of this is that abilities are not implied. If a Character has wings but lacks the Flight power, it can't fly.
+
+    The flexibility of the system does allow for some usage of these cosmetic abilities, however. The Character with wings (who lacks Flight or any related wing powers) can still use his Brawl skill to hit people with its wings. the rules handle the mechanical effects of the damage, and declaring thematic in-character descriptions of these actions is left to the Players and the Overlord/Minions.
+
+     This brings us to an important point: the rules here are designed to be flexible enough to handle unexpected Player ideas, which can't be foreseen, so they allow plenty of combinations that simply don't make sense. The fact that these combinations are allowed by the framework of the rules does not mean that every specific combination is allowed, however. Uses and combinations of Abilities and Minor Abilities are all required to make sense. Thus, specific scenarios are subject to Overlord approval. 
+
+
+[[Section 2 - Characteristics|Next Section -> 2. Characteristics]]

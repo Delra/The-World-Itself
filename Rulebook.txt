@@ -1,0 +1,18 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2014-08-13T13:49:27-04:00
+
+====== Rulebook ======
+Created Wednesday 13 August 2014
+
+This will contain the rules, and quick-links to all things relevant.
+
+* [[+Section 1 - Overview]]
+* [[+Section 2 - Characteristics]]
+* [[+Section 3 - Character Creation]]
+* [[+Section 4 - Task Resolution]]
+* [[+Section 5 - Actions]]
+* [[+Section 6 - Miscellaneous]]
+* [[+Section 7 - Influence]]
+* [[+Section 8 - Karma]]
+* [[+Section 9 - Advancement]]
